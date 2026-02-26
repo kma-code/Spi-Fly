@@ -32,6 +32,9 @@ This dataset is referred to as `dataset_id = 15` in the `params.yaml` files.
 
 ### Gas Sensor dataset
 
+> [!IMPORTANT]
+> The gas sensor dataset requires some pre-processing. This is described in [https://github.com/kma-code/Spi-Fly/tree/main/saved_datasets/gas_sensor_dataset](https://github.com/kma-code/Spi-Fly/tree/main/saved_datasets/gas_sensor_dataset).
+
 ```
 cd saved_datasets/gas_sensor_dataset
 python genData_extended.py
