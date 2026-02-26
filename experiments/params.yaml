@@ -1,0 +1,66 @@
+seed : 1                             # rng seed array
+
+# dataset defined in saved_datasets/
+# two choices: "gas_sensor" (Vergara et al., 2012) or 15 (synthetic DM dataset)
+dataset_id : "gas_sensor"                   # dataset_id = "gas_sensor" dataset has #odors = 10 (no SFR); dataset_id = 15 has #18 odors
+# whether to exclude no-odor (spontaneous firing rate) from dataset during classification
+exclude_SFR : False                         # this should be True for dataset_id=15, False for "gas_sensor"
+
+# neuron parameters
+decay_neu : 0.99                            # neuronal decay parameter beta, scale from [0,1], where 1: no decay
+noise_lvl : 0.01                            # standard deviation of noise added to membrane at every time step. Scale from [0,1]
+ratio1 : 0.6                                # ratio of total number of samples to use for train set
+ratio2 : 0.2                                # ratio of total number of samples to use for test set and val set each
+                                            # (make sure that ratio1 + 2*ratio2 = 1.0)
+hidden_dim : 1000                           # number of hidden layer neurons
+output_dim : 10                             # number of output neurons (may be overriden by learning rule)
+
+num_epochs : 10
+batch_size_train : 10                       # set to 1 for sequential samples; or set to #odors
+batch_size_valtest : 10                     # can be larger, e.g. full test set (= #odors)
+sequential_presentation : True              # order dataset into sequences where every odor appears exactly once
+                                            # before repeating, e.g.: [1,2,3,3,1,2,1,3,2,...].
+                                            # this is useful for testing few-shot learning using a larger dataset
+
+# normalize input traces to prevent strong odors learning much faster than weak ones
+normalize_inputs : False
+norm_factor : 1.0e-5
+
+# enable continual learning: randomly split dataset into pairs
+continual_learning: False
+# mixtures: randomly add a contaminating odor for each training sample from the same batch
+enable_mixtures: False
+mixture_scale: 0.0                          # convex scale of admixture of contaminating odor (0.5: same strength as original sample)
+# learning rule: either 'BPTT', 'EWC_BPTT', 'associative' (Spi-Fly) or 'stdp' (unsupervised)
+# learning_rule : 'BPTT'
+learning_rule : 'associative'
+normalize_pre_rate : True                   # for 'associative' learning rule only: normalize pre-synaptic rate to 1
+                                            # (this is set to True for all simulations in the paper)
+
+# weight quantization parameters
+use_quantization : False                    # whether to quantize weights to fixed bit precision
+quantization_type : "exponential"           # "exponential" or "linear_sym"
+n_bits : 4                                  # number of bits for weight quantization
+limit_weights: False                        # whether to limit weights to [min_weight, max_weight]
+min_weight : -1.0
+max_weight :  1.0
+
+# learning parameters
+lr : 1.0e-2                                 # learning rate
+use_lr_scaling : False
+use_scheduler : False                       # StepLR scheduler (BPTT only)
+min_lr : 0.01
+max_lr : 0.2
+gamma : 0.9                                 # gamma for StepLR scheduler (BPTT only)
+# regularization parameters
+w_decay : 0.0                               # weight decay parameter alpha (associative learning only)
+h2h_inhib_factor : 100.0                    # strength of hidden layer inhibition
+base_temp : 0.02
+scale_factor : 0.5
+EWC_lambda : 1.0e+7                         # size of regularizer for elastic weight consolodation
+
+use_regularizer : False
+use_normalization : False                   # whether to normalize weights to [min_weight, max_weight] after every sample
+amp : -5.0e-4                               # amplification factor of inputs before feeding into the input neurons.
+                                            # for dataset_id=15, this should be 5200;
+                                            # for "gas_senor", we found -5.0e-4 to be optimal.
