@@ -13,6 +13,8 @@ Following [2], we take two steps to mitigate long- and short-term drift in the d
 Run `python genData_extended.py` in this folder to generate the dataset.
 
 
-[1] https://archive.ics.uci.edu/dataset/251/gas+sensor+arrays+in+open+sampling+settings, Vergara et al.
+[1] [https://archive.ics.uci.edu/dataset/251/gas+sensor+arrays+in+open+sampling+settings](https://archive.ics.uci.edu/dataset/251/gas+sensor+arrays+in+open+sampling+settings), Vergara et al.
+
 [2] "Drift in a popular metal oxide sensor dataset reveals limitations for gas classification benchmarks", Dennler et al.
+We build on the code provided by by Nik Dennler in [https://zenodo.org/records/6338624](https://zenodo.org/records/6338624).
 
