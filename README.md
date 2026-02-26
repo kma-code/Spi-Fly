@@ -7,6 +7,7 @@ Code to reproduce all figures of "Few-shot, continual learning for spiking neuro
 To install, run:
 
 ```
+git clone https://github.com/kma-code/Spi-Fly/
 python3 -m venv flyEnv
 source flyEnv/bin/activate
 pip3 install -r requirements.txt
@@ -16,7 +17,8 @@ python -m ipykernel install --user --name=flyEnv
 
 ## Generating the datasets
 
-Due to the large file size, the datasets are not uploaded here, but need to be generated from the raw data first.
+> [!IMPORTANT]
+> Due to the large file size, the datasets are not uploaded here, but need to be generated from the raw data first.
 
 ### Synthetic DM dataset
 
@@ -26,7 +28,7 @@ Open `SNN_FlyModel.py` and make sure that `LOAD_DATASET = False`. Then, you can 
 python SNN_FlyModel.py --params experiments/exp31_BPTT_full_multiseed/params0/seed0/params.yaml --no-neptune
 ```
 
-[!IMPORTANT]  Afterwards, you can set `LOAD_DATASET = True` to avoid generating the dataset at every run.
+This dataset is referred to as `dataset_id = 15` in the `params.yaml` files.
 
 ### Gas Sensor dataset
 
@@ -35,7 +37,10 @@ cd saved_datasets/gas_sensor_dataset
 python genData_extended.py
 ```
 
-[!IMPORTANT]  Afterwards, make sure to set `LOAD_DATASET = True`.
+This dataset is referred to as `dataset_id = "gas_sensor"` in the `params.yaml` files.
+
+> [!TIP]
+> After generating both datasets, you can set `LOAD_DATASET = True` in `SNN_FlyModel.py` to avoid generating the dataset at every run.
 
 ## Running simulations
 
