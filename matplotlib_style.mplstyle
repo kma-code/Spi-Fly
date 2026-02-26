@@ -1,0 +1,14 @@
+text.usetex: True
+font.family: serif
+font.size: 10
+figure.dpi: 150
+figure.figsize: 6,3
+# Tableau colorblind 10 palette
+axes.prop_cycle: cycler('color', ['006BA4', 'FF800E', 'ABABAB', '595959', '5F9ED1', 'C85200', '898989', 'A2C8EC', 'FFBC79', 'CFCFCF'])
+patch.facecolor: 006BA4
+axes.titlesize      : large   # fontsize of the axes title
+axes.labelsize      : medium  # fontsize of the x any y labels
+xtick.labelsize:     medium
+
+errorbar.capsize: 2  # length of end cap on error bars in pixels
+lines.markersize: 3

@@ -1,0 +1,694 @@
+SFR
+water
+ammonium hydroxide
+putrescine
+cadaverine
+ammonia
+ethanolamine
+heptylamine
+isoamylamine
+dimethylamine
+gamma-butyrolactone
+gamma-hexalactone
+gamma-octalactone
+gamma-decalactone
+delta-decalactone
+methanoic acid
+acetic acid
+propanoic acid
+butyric acid
+pentanoic acid
+hexanoic acid
+heptanoic acid
+octanoic acid
+nonanoic acid
+linoleic acid
+isobutyric acid
+isopentanoic acid
+pyruvic acid
+2-ethylhexanoic acid
+lactic acid
+3-methylthio-1-propanol
+dimethyl sulfide
+dipropyldisulphide
+propanethiol
+terpinolene
+alpha-pinene
+beta-pinene
+3-carene
+limonene
+alpha-humulene
+beta-myrcene
+(-)-trans-caryophyllene
+p-cymene
+geranyl acetate
+alpha-terpineol
+geraniol
+nerol
+linalool
+beta-citronellol
+linalool oxide
+(R)-(-)-carvone
+(S)-(+)-carvone
+1,8-cineole
+1,4-cineol
+citral
+(S)-(-)-citronellal
+(1R)-(-)-fenchone
+(R)-(+)-limonene
+(-)-menthone
+(1R)-(-)-myrtenal
+(+)-alpha-pinene
+(R)-(+)-pulegon
+(-)-alpha-thujone
+alpha-bisabolol
+e,e-farnesol
+alpha-ionone
+beta-ionone
+l-limonen
+acetaldehyde
+propanal
+butanal
+pentanal
+hexanal
+E2-hexenal
+furfural
+2-propenal
+octanal
+decanal
+heptanal
+E2-octenal
+nonanal
+E2-heptenal
+acetone
+2-butanone
+2-pentanone
+2-heptanone
+6-methyl-5-hepten-2-one
+2,3-butanedione
+3-hydroxy-2-butanone
+3-penten-2-one
+2-hexanone
+3-hexanone
+cyclohexanone
+2-octanone
+nonanone
+3-heptanone
+phenethyl alcohol
+benzyl alcohol
+methyl salicylate
+methyl benzoate
+ethyl benzoate
+phenethyl acetate
+benzaldehyde
+phenylacetaldehyde
+acetophenone
+ethyl cinnamate
+2-methylphenol
+4-ethylguaiacol
+eugenol
+salicyl aldehyde
+2-hydroxy-anisole
+4-propenyl anisole
+4-methoxybenzaldehyde
+4-isopropylbenzaldehyde
+4-methoxybenzene
+4-allyl-1,2-dimethoxybenzene
+2,4,5-trimethoxy-1-propenylbenzene
+benzyl cyanide
+iso-eugenol
+4-methylphenol
+4-ethylphenol
+2-propylphenol
+3-phenyl-2e-propenal
+benzonitrile
+methyl jasmonate
+benzyl acetate
+4-propylphenol
+3-methylphenol
+2-ethylphenol
+benzoic acid
+4hydroxy-3-methoxybenzaldehyde
+methanol
+ethanol
+1-propanol
+1-butanol
+1-pentanol
+1-hexanol
+1-octanol
+2-octanol
+2-pentanol
+3-methyl-butanol
+3-methyl-2-buten-1-ol
+1-penten-3-ol
+1-octen-3-ol
+E2-hexenol
+Z2-hexenol
+E3-hexenol
+Z3-hexenol
+glycerol
+2,3-butanediol
+cyclohexanol
+decanol
+4-methylcyclohexanol
+1-heptanol
+3-octanol
+1-nonanol
+4-octanol
+2-heptanol
+2-hexanol
+3-hexanol
+1-hexen-3-ol
+isobutyl alcohol
+methyl acetate
+ethyl acetate
+propyl acetate
+butyl acetate
+pentyl acetate
+hexyl acetate
+isobutyl acetate
+isopentyl acetate
+E2-hexenyl acetate
+methyl butyrate
+ethyl butyrate
+hexyl butyrate
+ethyl 3-hydroxybutyrate
+ethyl propionate
+ethyl methanoate
+methyl hexanoate
+ethyl hexanoate
+hexyl hexanoate
+methyl octanoate
+ethyl octanoate
+ethyl decanoate
+ethyl trans-2-butenoate
+ethyl lactate
+diethyl succinate
+octyl acetate
+decyl acetate
+methyl propionate
+propyl butanoate
+butyl hexanoate
+indole
+Z11-hexdecenyl acetate
+2-methyl butyl acetate
+propyl propionate
+sec-amyl acetate
+ethyl (R)-(-)-3-hydroxybutanoate
+ethyl (S)-(+)-3-hydroxybutanoate
+ethyl 2-methylbutanoate
+butyl butanoate
+ethyl pentanoate
+methyl 3-hydroxy hexanoate
+ethyl 3-hydroxyhexanoate
+propyl hexanoate
+isoamyl tiglate
+isopropyl butyrate
+methyl tiglate
+ethyl 2-methyl-2e-butenoate
+isopropyl tiglate
+ethyl isovalerate
+heptyl acetate
+Z3-hexenyl acetate
+hexyl methanoate
+nonyl acetate
+butyl propanoate
+acetyl furan
+beta-butyrolactone
+gamma-valerolactone
+gamma-pentyl-gamma-butyrolactone
+gamma-propyl-gamma-butyrolactone
+oil
+heptane
+octane
+nonane
+carbon dioxide
+2-isobutyl-3-methoxypyrazine
+pyrrolidine
+11-cis vaccenyl acetate
+oleyl alcohol
+cis-vaccenyl alcohol
+oleyl acetate
+cis-vaccenic acid
+trans-methyl vaccenate
+hexane
+thymol
+benzophenone
+isopropyl alcohol
+methional
+menthol
+geosmin
+2-phenylethylamine
+3-mercaptopropanoate
+isopropyl benzoate
+diethylamine
+phenylethyl propionate
+phenol
+isopropyl acetate
+pyridine
+2-oxovaleric acid
+(-) bornyl acetate
+2-methylisoborneol
+cis-3-hexenyl propionate
+1-octen-3-yl butyrate
+isoamyl benzoate
+deet
+2-nonanol
+trans-3-hexenyl acetate
+isopropyl pentanoate
+4-methyl pentanol
+isoamyl butyrate
+2-methoxy-4-propyl phenol
+ethyl amine
+3-octanone
+hexyl isovalerate
+propyl benzoate
+phenylacetic acid
+isoamyl propionate
+isobutyl tiglate
+isopentyl hexanoate
+prenyl acetate
+2-methoxy-4-vinyl phenol
+acetoin acetate
+isopropyl isopentanoate
+cis-11-hexadecenal
+spermidine
+(-)-linalool
+glycine
+pentylamine
+propylene glycol
+geranyl formate
+trimethylamine
+cis-3,7-dimethyl-2,6-octadien-1-yl acetate
+geranyl acetone
+butylamine
+2-ethylfenchol
+pyrazine
+cyclohexylamine
+spermine
+phenylacetone
+n-methylpiperidine
+(-)-beta-citronellol
+piperonal
+2-oxobutyric acid
+linalyl acetate
+hydrogen chloride
+1-methylcyclohexanol
+3-acetylpyridine
+glutamate
+(-)-beta-pinene
+alpha-terpinene
+ethylbenzene
+toluene
+prop-2-enyl acetate
+(2R)-hexan-2-ol
+hexa-2,4-dien-1-ol
+ethyl 3-methylsulfanylpropanoate
+(2S)-heptan-2-ol
+ethyl 4-oxopentanoate
+ethyl prop-2-enoate
+methyl 2-methylpropanoate
+diethyl oxalate
+chlorine
+methyldiethanolamine
+ethyldiethanolamine
+diethyl phosphite
+triethyl phosphite
+2,3-dimethyl-2,3-dinitrobutane
+2-ethyl-1-hexanol
+hexamine
+hydrogen peroxide
+nitric acid
+nitromethane
+acetic anhydride
+formamide
+1-phenyl-2-nitropropene
+safrole
+diazinon
+endosulfan
+potassium perchlorate
+sodium perchlorate
+sulfur
+cyclotrimethylenetrinitramine
+hexamethylene triperoxide-diamine
+nitroglycerin
+pentaerythritol tetranitrate
+triacetone triperoxide
+2,4,6-trinitrotoluene
+2-ethylpyrazine
+2-ethyl-5(6)-methylpyrazine
+2-acetyl-3-methylpyrazine
+2-ethyl-3,(5 or 6)-dimethylpyrazine
+2-methoxypyrazine
+2-ethyl-3-methylpyrazine
+2-ethyl-3-methoxypyrazine
+2,3-diethylpyrazine
+2-chloropyrazine
+2-acetyl-3-ethylpyrazine
+2-acetylpyrazine
+5h-5-methyl-6, 7-dihydrocyclopenta[b]pyrazine
+2-methoxy-3-(1-methylpropyl)pyrazine
+2,3,5-trimethylpyrazine
+2-isobutyl-3-methylpyrazine
+2,6-dimethylpyrazine
+2-methoxy-3-methylpyrazine
+2,3-dimethylpyrazine
+2-acetyl-3,5(or 6)-dimethylpyrazine
+2,5-dimethylpyrazine
+2,3,5,6-tetramethylpyrazine
+2-methylpyrazine
+pyrazineethanethiol
+1-decene
+cis-3-hexenyl 3-methylbutanoate
+2-acetylpyridine
+1-methoxy-2-propanol
+2,4-dimethylheptane
+isopropyl myristate
+2-ethyl-p-xylene
+butyl isovalerate
+p-benzoquinone
+trans,trans-2,4-hexadienal
+cyclononanone
+cis-3-hexenyl benzoate
+tetradecane
+cyclopentanone
+2-methylindole
+heptacosane
+1-methylindole
+hexylamine
+myristicin
+phytol
+(1S)-(+)-3-carene
+acetylsalicylic acid
+cis-2-penten-1-ol
+3-[5,5,6-trimethylbicyclo[2.2.1]hept-2-yl]cyclohexan-1-ol
+1-hexadecanol
+furfuryl disulfide
+1-octadecene
+S-(+)linalool
+methacrylic acid
+2-hydroxy-3-methyl-2-cyclopenten-1-one
+4-methyl anisole
+l-aspartic acid
+2-n-propylfuran
+(+)-camphene
+(-)-camphene
+o-xylene
+farnesene
+1,2,3,4-tetrahydronaphthalene
+1-bromoeicosane
+hexadecane
+acetovanillone
+2-mercaptoethanol
+2-pentyl butyrate
+4-hydroxy-5-methyl-3-furanone
+1,2-propanediol
+(-)-camphor
+camphor (+ -)
+isoborneol
+(+)-borneol
+4-pentenyl butanoate
+(+)-beta-cedrene
+3,4-dihydroxyhydrocinnamic acid
+4-methylvaleric acid
+pentyl valerate
+1,2- hexanediol
+tricosane
+heneicosan
+trans-nerolidol
+(-)-beta-citronellene
+4-vinylphenol
+4-phenyl-2-butanol
+methyl jasmonate
+decanoic acid
+citronellic acid
+1-octadecanol
+4-bromobutyric acid
+1,2,4-trimethylbenzene
+cis-3-hexanal
+ethyl salicylate
+dodecyl aldehyde
+4-ethylcatechol
+dimethyl sulfone
+levoglucosenone
+1-tetradecanol
+3-ethylphenol
+hexacosane
+2-pyrrolidinone
+docosane
+methyl cedryl ether
+3-methylcyclohexanol, mixture of cis and trans
+2-ethyltoluene
+(1R)-endo-(+)-fenchyl alcohol
+cis-3-hexenyl salicylate
+3-methylpentanoic acid
+ocimene
+Z-(beta)-ocimene
+benzothiazole
+palmitic acid
+(-)-alpha-cedrene
+m-xylene
+3-methyl-1-pentanol
+phenethyl isobutyrate
+Z-11-hexadecenoic acid
+2-methyl-2-pentenoic acid
+1-bromopentadecane
+cis-3-hexenyl tiglate
+4-ethyl toluene
+l-(+)-lactic acid
+isobutylamine
+isobutyl isovalerate
+4-chloro-2-isopropyl-5-methylphenol
+bornyl acetate
+7-methylindole
+cis-2-hexenyl crotonate
+undecanal
+propiophenone
+ferulic acid
+3,7-dimethyl-1-octene
+1-octene
+2-undecanone
+isobutyl benzoate
+beta-himachalene
+2-ethyl hexanal
+propylene glycol monomethyl ether acetate
+trans-2-hexenyl propionate
+ethyl 3-methyl-3-phenylglycidate
+6-methylquinoline
+4-hydroxy-2-butanone
+(-)-ethyl l-lactate
+3-methoxy-3-methyl-1-butanol
+2-(ethylamino)ethanol
+1-bromohexane
+alpha-pentylcinnamaldehyde diethyl acetal
+2-methyl-2-butanol
+dimethyl succinate
+1-bromodecane
+(+/-)-sabinene
+p-coumaric acid
+2,5-dimethyl-2,5-dihydroxy-1,4-dithiane
+acrylic acid
+6-isopropylquinoline
+3-(4-hydroxyphenyl)propionic acid
+methyl isoeugenol
+cis-2-nonen-1-ol
+(-)-caryophyllene oxide
+6-bromohexanoic acid
+isobutyl-2-methylbutyrate
+methyl 2-methylbutyrate
+propyl benzene
+1,3,5-trimethylcyclohexane
+alpha-phellandrene
+(R)-6-methyl-5-hepten-2-ol
+(S)-6-methyl-5-hepten-2-ol
+(+-)-6-methyl-5-hepten-2-ol
+2,5-hexanedione
+iodoform
+galaxolide
+beta-elemene
+cis-3-hexenyl isobutyrate
+butyl 2-methylbutyrate
+l-tyrosine
+maritima
+trans-2-hexenyl butyrate
+(+)-longifolene
+undecanoic -gamma-lactone
+ethylenediamine
+ethylene glycol butyl ether
+tetracosane
+dodecanoic acid
+styrene
+caffeic acid
+4-methyl-2-pentenoic acid
+bromobenzene
+2-phenoxyethanol
+valencene
+stearic acid
+dihydro-beta-ionone
+2-cyclohexylethanol
+n-pentyl benzoate
+2-methyl-1-butanol
+3-propyltoluene
+methyl oleate
+1-pentadecanol
+o-dichlorobenzene
+cis-3-hexenyl hexanoate
+isobutyl butyrate
+Z-11-hexadecen-1-ol
+isoprene
+undecane
+3-nitrophenol
+cumene
+isobutyl isobutyrate
+1-methyl-2-pyrrolidinone
+benzyl benzoate
+2-methylnonane
+l-(-)-nicotine
+dodecane
+3-methyl-2-butenyl butanoate
+furan-3-methanol
+4-hydroxy-4-methyl-2-pentanone
+cyclodecanone
+3-methyl-2-butanone
+4-methyl-2-nitrophenol
+myristic acid
+ethyl 2-aminobenzoate
+isoamyl valerate
+2-dimethylaminoethanol
+naphthalene
+2-methyl-cis-2-butenoic acid
+trans-2-methyl-2-butenoic acid
+3-pentenoic acid
+isopropyl laurate
+2-ethylbutyraldehyde
+decahydro-2-naphthol
+cyclounedecanone
+n-caproic acid trans-2-hexen-1-yl ester
+triacetin
+p-xylene anhydrous
+thiodiacetic acid
+isobutyl hexanoate
+methyl 2-aminobenzoate
+5-methyl-5-hexen-2-one
+cis-5-octen-1-ol
+isoamyl 2-methylbutyrate
+4-ethylresorcinol
+benzyl propionate
+(-)-a-copaene
+benzyl butyrate
+(R)-(-)-1-octen-3-ol
+p-toluquinone
+2,3-dimethyl heptane
+1,4-butanediol
+cis-2-penten-1-yl acetate
+propylamine
+6,10,14-trimethyl-2-pentadecanone
+(+-)-2-methylbutyric acid
+phenylacetaldehyde dimethyl acetal
+5-bromovaleric acid
+dimethyl disulfide
+amyl hexanoate
+(+)-limonene oxide
+(+)-nootkatone
+methyl linoleate
+musk ketone
+m-cymene
+methyl trans-3-hexenoate
+1-tridecanol
+isoamyl isovalerate
+cis-3-hexenyl formate
+taurine
+hexenyl-cis-3-valerate
+furfuryl alcohol
+butyl benzoate
+isopropyl palmitate
+d-valerolactam
+3-hexenoic acid, (3z)-
+trans-3-hexenoic acid
+tripropylamine
+gamma-terpinene
+pentacosane
+dichloromethane
+5-methylindole
+acetylacetone
+6-pentadecanone
+vertenol-iso-butyrate
+(-)-carvenyl acetate
+dimethyl trisulfide
+3,3-dimethylacrylic acid
+benzyl valerate
+methyl myristate
+trans-3-octen-2-one
+cis-3-hexenyl butyrate
+benzyl salicylate
+skatole
+3-ethyl toluene
+triethylamine
+allyl isothiocyanate
+oleic acid
+octacosane
+ethyl gallate
+ethyl vanillin
+quercetin
+butylhydroxytoluene
+ethyl protocatechuate
+tyrosol
+phenoxyethanol
+guaiacol acetate
+1,1-dimethoxyethane
+1,3-propanedithiol
+2,4,5-trimethylthiazole
+2-acetylthiazole
+(+)-2-butanol
+2-butanol
+2-decanone
+2-isobutylthiazole
+2-methylcyclohexanol
+(+)-3-heptanol
+3-pentanone
+4,5-dimethylthiazole
+4-methylthiazole
+4-penten-1-ol
+7-oxabicyclo[2.2.1]-heptane
+benzylamine
+benzyl trans-2-methyl-2-butenoate
+(-)-carveol
+chlorobenzene
+citral
+citronellyl acetate
+dimethoxymethane
+ethyl isobutyrate
+farnesal
+farnesol
+furfuryl heptanoate
+furfuryl octanoate
+pentane
+(R)-(+)-citronellal
+thiazole
+xylenes
+beta-citronellol
+tridecane
+pentadecane
+heptadecane
+octadecane
+nonadecane
+eicosane
+nonacosane
+2-methyl docosane
+2-methyl tetracosane
+2-methyl hexacosane
+2-methyl octacosane
+5-methyl tricosane
+7-methyl tricosane
+hexadecene
+(Z)-7-tricosene
+(Z)-9-tricosene
+(Z)-7-pentacosene
+(Z,Z)-7,11-pentacosadiene
+(Z,Z)-7,11-heptacosadiene
+(Z,Z)-7,11-octacosadiene
+(Z,Z)-7,11-nonacosadiene
+methyl laurate
+methyl palmitate
+palmitoleic acid
+none

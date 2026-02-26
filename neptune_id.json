@@ -1,0 +1,5 @@
+ {
+    "project": "spi-fly",
+    "api_token": "XXXXX",
+    "mode": "async"
+}

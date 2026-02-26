@@ -1,0 +1,19 @@
+{
+  "odorant_names": [
+    "toluene",
+    "benzene",
+    "methane",
+    "CO",
+    "ammonia",
+    "acetone",
+    "acetaldehyde",
+    "methanol",
+    "butanol",
+    "ethylene"
+  ],
+  "N_OR": 72,
+  "output_dt": 0.005,
+  "dataset_size": 20,
+  "dt": 5e-05,
+  "N_odorants": 10,
+}

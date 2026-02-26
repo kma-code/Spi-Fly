@@ -1,0 +1,4 @@
+- "or.csv" (e.g. ab2B.csv) are the responses taken directly from the ref papers
+- "door_response_matrix.csv" are responses normalized over all ORs/odorants
+- "door_response_matrix_non_normalized.csv" are responses normalized only over subgroup (which one?)
+- SFR seems to be some internal variable for DoOR to sort and normalize entries

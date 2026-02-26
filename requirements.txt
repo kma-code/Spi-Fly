@@ -1,0 +1,29 @@
+# math & plotting
+numpy==1.26.4
+matplotlib==3.10.5
+
+# input/output processing
+pyyaml==6.0.2
+dill==0.4.0
+
+# jupyter notebook
+ipykernel
+ipympl==0.9.8
+widgetsnbextension==4.0.15
+jupyterlab_widgets==3.0.16
+
+# learning
+scikit-learn==1.7.1
+multiprocess==0.70.18
+
+# workflow
+#sacred
+#tqdm
+torchinfo==1.8.0
+
+# torch
+torch==2.2
+torchvision==0.17
+torchaudio==2.2
+#wandb==0.21.1
+neptune==1.14.0
