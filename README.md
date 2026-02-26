@@ -13,10 +13,33 @@ pip3 install -r requirements.txt
 python -m ipykernel install --user --name=flyEnv 
 ```
 
+
+## Generating the datasets
+
+Due to the large file size, the datasets are not uploaded here, but need to be generated from the raw data first.
+
+### Synthetic DM dataset
+
+Open `SNN_FlyModel.py` and make sure that `LOAD_DATASET = False`. Then, you can run any of the parameter files using the synthetic dataset, e.g.:
+
+```
+python SNN_FlyModel.py --params experiments/exp31_BPTT_full_multiseed/params0/seed0/params.yaml --no-neptune
+```
+
+Afterwards, you can set `LOAD_DATASET = True` to avoid generating the dataset at every run.
+
+### Gas Sensor dataset
+
+```
+cd saved_datasets/gas_sensor_dataset
+python genData_extended.py
+```
+
 ## Running simulations
 
 The individual runs can be started by running `python SNN_FlyModel.py --params experiments/params.yaml --no-neptune`.
-Runs can be logged to neptune.ai. To do so, add your `api_token` to `neptune_id.json`. You can then leave out the flat `--no-neptune`.
+
+Runs can be logged to neptune.ai. To do so, add your `api_token` to `neptune_id.json`. You can then leave out the flag `--no-neptune`.
 
 `experiments/params.yaml` contains an example parameter file. All parameters are documented therein.
 
@@ -25,6 +48,8 @@ To reproduce the figures in the paper, run the following commands, then open `ma
 (There are 10 seeds for each experiment, which can be run by replacing `seed0` by `seed1` etc. in the folder names.)
 
 ### Figure 2: Full dataset
+
+For the offline classifier results (Gaussian NB, SVM), take a look at `offline_classifiers.ipynb`.
 
 #### Synthetic DM dataset
 

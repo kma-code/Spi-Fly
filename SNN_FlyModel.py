@@ -62,7 +62,7 @@ MAIN_PATH = Path(__file__).resolve().parents[0]
 ############################################
 
 # whether to generate new dataset or load an existing one
-LOAD_DATASET = True
+LOAD_DATASET = False
 RECORD_SPIKE_OUTPUTS = True
 SAVE_WEIGHTS = True
 SAVE_WEIGHT_FIGS = False
