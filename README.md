@@ -26,7 +26,7 @@ Open `SNN_FlyModel.py` and make sure that `LOAD_DATASET = False`. Then, you can 
 python SNN_FlyModel.py --params experiments/exp31_BPTT_full_multiseed/params0/seed0/params.yaml --no-neptune
 ```
 
-Afterwards, you can set `LOAD_DATASET = True` to avoid generating the dataset at every run.
+[!IMPORTANT]  Afterwards, you can set `LOAD_DATASET = True` to avoid generating the dataset at every run.
 
 ### Gas Sensor dataset
 
@@ -34,6 +34,8 @@ Afterwards, you can set `LOAD_DATASET = True` to avoid generating the dataset at
 cd saved_datasets/gas_sensor_dataset
 python genData_extended.py
 ```
+
+[!IMPORTANT]  Afterwards, make sure to set `LOAD_DATASET = True`.
 
 ## Running simulations
 
