@@ -1,6 +1,7 @@
 # Code repository for Spi-Fly: Few-shot, continual learning for spiking neuromorphic olfaction
 
 Code to reproduce all figures of "Few-shot, continual learning for spiking neuromorphic olfaction".
+For simulation code for the EPL net of Imam and Cleland, see https://github.com/kma-code/EPLNetwork_ImamCleland2020.
 
 ## Installation
 
